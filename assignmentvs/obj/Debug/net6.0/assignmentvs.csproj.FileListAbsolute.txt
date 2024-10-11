@@ -1,0 +1,16 @@
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.GlobalUsings.g.cs
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.csproj.AssemblyReference.cache
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.AssemblyInfoInputs.cache
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.AssemblyInfo.cs
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.csproj.CoreCompileInputs.cache
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/bin/Debug/net6.0/assignmentvs
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/bin/Debug/net6.0/assignmentvs.deps.json
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/bin/Debug/net6.0/assignmentvs.runtimeconfig.json
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/bin/Debug/net6.0/assignmentvs.dll
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/bin/Debug/net6.0/ref/assignmentvs.dll
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/bin/Debug/net6.0/assignmentvs.pdb
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.dll
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/ref/assignmentvs.dll
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.pdb
+/Users/nhuminh/Projects/assignmentvs/assignmentvs/obj/Debug/net6.0/assignmentvs.genruntimeconfig.cache
