@@ -1,0 +1,14 @@
+C:\Users\301380134\source\repos\ConsoleApptTest\bin\Debug\net8.0\ConsoleApptTest.exe
+C:\Users\301380134\source\repos\ConsoleApptTest\bin\Debug\net8.0\ConsoleApptTest.deps.json
+C:\Users\301380134\source\repos\ConsoleApptTest\bin\Debug\net8.0\ConsoleApptTest.runtimeconfig.json
+C:\Users\301380134\source\repos\ConsoleApptTest\bin\Debug\net8.0\ConsoleApptTest.dll
+C:\Users\301380134\source\repos\ConsoleApptTest\bin\Debug\net8.0\ConsoleApptTest.pdb
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.AssemblyInfoInputs.cache
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.AssemblyInfo.cs
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.csproj.CoreCompileInputs.cache
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.dll
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\refint\ConsoleApptTest.dll
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.pdb
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ConsoleApptTest.genruntimeconfig.cache
+C:\Users\301380134\source\repos\ConsoleApptTest\obj\Debug\net8.0\ref\ConsoleApptTest.dll
